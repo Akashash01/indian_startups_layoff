@@ -3,6 +3,7 @@ Created an simple an Dashboard report of startups layoff in India 2023 using the
 
 Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiODcxYzkyZGItMTI1MC00ZjAwLWIxMzItNWVhZDRkYjMxN2RiIiwidCI6IjY0ZGU2ZGRmLTA4ZTAtNGJjNy1iYTdkLWZmNTM1MmU1MGFjYyJ9
 
+# Description
 
 1. **Developed Power BI dashboards to track layoff trends across startup companies over multiple years, identifying key patterns, sectors most affected, and analyzing the frequency of layoffs based on economic factors.**
 
